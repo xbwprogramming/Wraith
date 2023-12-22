@@ -1,7 +1,7 @@
 # Wraith
 Wraith Protocol is a cutting-edge decentralized data oracle and NFT platform. Data providers can securely upload valuable information to the blockchain using Wraith Protocol, creating unique NFTs backed by real-world data. The protocol enables seamless data trading in a decentralized marketplace, empowering data creators and consumers.
 
-Detailed Breakdown:
+Documentation Breakdown:
 
 WraithProtocol.sol
 
